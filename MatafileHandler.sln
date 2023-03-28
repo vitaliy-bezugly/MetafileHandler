@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metafile.FiguresCreator", "Metafile.FiguresCreator\Metafile.FiguresCreator.csproj", "{DEA4F19A-D568-4508-A331-D0E67554E9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merafile.Reader", "Merafile.Reader\Merafile.Reader.csproj", "{AF31744D-01A0-47A4-9765-B486DD0720C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA4F19A-D568-4508-A331-D0E67554E9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA4F19A-D568-4508-A331-D0E67554E9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA4F19A-D568-4508-A331-D0E67554E9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA4F19A-D568-4508-A331-D0E67554E9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF31744D-01A0-47A4-9765-B486DD0720C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF31744D-01A0-47A4-9765-B486DD0720C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF31744D-01A0-47A4-9765-B486DD0720C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF31744D-01A0-47A4-9765-B486DD0720C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA7A231-7424-4261-B896-FD0B848470CE}
+	EndGlobalSection
+EndGlobal
